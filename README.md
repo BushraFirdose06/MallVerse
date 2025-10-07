@@ -28,4 +28,4 @@ MallVerse: An immersive virtual shopping mall built with HTML, CSS, JS, Three.js
 - **Deployment**: GitHub Pages, Vercel, or Netlify (static hosting)
 
 ## 📥 Installation
-1. **Clone the Repo**: https://github.com/BushraFirdose/MallVerse.git
+1. **Clone the Repo**: https://github.com/BushraFirdose06/MallVerse.git
